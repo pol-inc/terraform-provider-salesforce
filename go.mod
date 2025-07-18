@@ -1,6 +1,6 @@
 module vestahealthcare
 
-go 1.18
+go 1.23.0
 
 require (
 	github.com/go-openapi/errors v0.20.4
@@ -10,7 +10,7 @@ require (
 	github.com/go-openapi/validate v0.22.1
 	github.com/hashicorp/terraform-plugin-docs v0.16.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.6.1
-	golang.org/x/oauth2 v0.9.0
+	golang.org/x/oauth2 v0.27.0
 )
 
 require (
